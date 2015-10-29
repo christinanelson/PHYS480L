@@ -1,2 +1,11 @@
 # 10/29/15
 # Nuclear Spectroscopy
+
+Amplification on the PMT
+Voltage (HV_C)
+-1800 kV
+
+
+coarse gain: 4
+fine tune: 2
+total gain: 6
